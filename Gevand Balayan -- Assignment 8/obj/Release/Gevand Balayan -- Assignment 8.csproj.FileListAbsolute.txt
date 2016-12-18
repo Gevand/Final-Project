@@ -1,0 +1,9 @@
+C:\Users\Gevand\documents\visual studio 2013\Projects\Gevand Balayan -- Assignment 8\Gevand Balayan -- Assignment 8\bin\Release\Gevand Balayan -- Assignment 8.exe.config
+C:\Users\Gevand\documents\visual studio 2013\Projects\Gevand Balayan -- Assignment 8\Gevand Balayan -- Assignment 8\bin\Release\Gevand Balayan -- Assignment 8.exe
+C:\Users\Gevand\documents\visual studio 2013\Projects\Gevand Balayan -- Assignment 8\Gevand Balayan -- Assignment 8\bin\Release\Gevand Balayan -- Assignment 8.pdb
+C:\Users\Gevand\documents\visual studio 2013\Projects\Gevand Balayan -- Assignment 8\Gevand Balayan -- Assignment 8\obj\Release\Gevand_Balayan____Assignment_8.Form1.resources
+C:\Users\Gevand\documents\visual studio 2013\Projects\Gevand Balayan -- Assignment 8\Gevand Balayan -- Assignment 8\obj\Release\Gevand_Balayan____Assignment_8.Properties.Resources.resources
+C:\Users\Gevand\documents\visual studio 2013\Projects\Gevand Balayan -- Assignment 8\Gevand Balayan -- Assignment 8\obj\Release\Gevand Balayan -- Assignment 8.csproj.GenerateResource.Cache
+C:\Users\Gevand\documents\visual studio 2013\Projects\Gevand Balayan -- Assignment 8\Gevand Balayan -- Assignment 8\obj\Release\Gevand Balayan -- Assignment 8.exe
+C:\Users\Gevand\documents\visual studio 2013\Projects\Gevand Balayan -- Assignment 8\Gevand Balayan -- Assignment 8\obj\Release\Gevand Balayan -- Assignment 8.pdb
+C:\Users\Gevand\documents\visual studio 2013\Projects\Gevand Balayan -- Assignment 8\Gevand Balayan -- Assignment 8\obj\Release\Gevand Balayan -- Assignment 8.csprojResolveAssemblyReference.cache
